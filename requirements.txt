@@ -1,0 +1,3 @@
+tkinter
+# Built-in modules only. No external dependencies required for the GUI.
+# For building .exe: pyinstaller
