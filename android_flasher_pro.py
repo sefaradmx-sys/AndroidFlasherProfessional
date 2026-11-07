@@ -1,1 +1,1 @@
-See full updated file - tools binaries prioritized in _locate method. Full source with platform-tools support.
+PLACEHOLDER - full content with updated _locate will be restored from local
